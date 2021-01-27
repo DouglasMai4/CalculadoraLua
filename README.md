@@ -1,2 +1,2 @@
 # CalculadoraLua
-Esse projeto tem o intuito de ajudar pessoas que tambem estajam aprendendo Lua ou que queiram aprender Lua.
+Meu nome é Douglas Maia, tenho 16 anos e estou aprendendo Lua, fiz essa calculadora bem simples com meus conhecimentos e estou liberando o acesso ao código dela por que quero ajudar outras pessoas que talvez não saibam como fazer, ou talvez até inspirar alguem a começar a programar tambem, pesso que se puderem ajudar a melhorar o código ajudem pois a ideia é que as pessoas se ajudem, desde já obrigado.)
